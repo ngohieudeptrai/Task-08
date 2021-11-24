@@ -1,0 +1,11 @@
+
+body{
+    background-color: beige;
+    text-align: center;
+}
+figure {
+    float: left;
+    background-color: beige;
+    display: inline;
+    text-align: center;
+}
